@@ -1,0 +1,70 @@
+#cookies
+{
+
+}
+
+.button
+{
+width: 100px;
+height: 100px;
+}
+.btn-primary
+{
+border-radius: 20px;
+border:3px outset;
+}
+
+.main
+{
+  border: black 10px solid;
+  border-radius: 20px;
+  border-color: brown;
+  float:left;
+  background-color: lightgray;
+  margin-left:  5%;
+
+}
+.numcontainer
+{
+float:left;
+background-color: lightgreen;
+
+}
+.info
+{
+    background-color: lightgreen;
+
+}
+.alert-info
+{
+  padding-left: 20px;
+  border-bottom: 2px solid;
+  border-top-left-radius:20px;
+  border-top-right-radius:20px;
+  display: block flex;
+
+
+}
+.maincontain
+{
+  border: black 2px solid;
+  border-radius: 20px;
+  border-color: brown;
+  float:left;
+  background-color: lightgray;
+  margin-left:5%;
+  min-width:90%;
+  max-width: 90%;
+}
+
+
+.container
+{
+  border-radius: 20px;
+  background-color: gray;
+  display: block flex;
+  font-weight: 500;
+  border-radius: 10px;
+  border:3px outset darkgrey;
+  padding-left: 0;
+}
